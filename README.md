@@ -34,4 +34,4 @@ This project explores the classic Titanic dataset to uncover patterns influencin
 ## Author
 
 * **Sandesh Shrestha**
-* Machine Learning Associate @ Fusemachine
+* Machine Learning Associate @ Fusemachines
