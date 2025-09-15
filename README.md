@@ -35,3 +35,6 @@ This project explores the classic Titanic dataset to uncover patterns influencin
 
 * **Sandesh Shrestha**
 * Machine Learning Associate @ Fusemachines
+
+## FeedBack
+Your presentation is clear, well-structured, and highlights meaningful insights from the Titanic dataset. The visuals and sections flow logically, showing strong connections between class, gender, age, and survival. To improve, you could summarize key takeaways more concisely. Overall, it’s an insightful and well-organized analysis.
